@@ -1,0 +1,11 @@
+@ Copies data from one memory location to another
+@	Store some data (strings) in each memory addresses
+@	Print both memory addresses and contents
+@	Read source_address, dest_address, length from console
+@		if either address incorrect or length too long, error
+@	Copy data from source to dest with specified length
+@	Print both memory addresses and contents
+
+
+
+!Put null terminator (0) at end of both blocks of data!
